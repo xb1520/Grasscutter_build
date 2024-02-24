@@ -16,10 +16,21 @@
 - [某游戏 4.0 客户端 资源](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/GenshinImpact_4.0.0.zip) 56.1GB [下载页面](https://github.com/JRSKelvin/GenshinRepository/blob/main/Version%204.0.0.md)
 - [Cultivation](https://github.com/Grasscutters/Cultivation/releases/download/v1.2.0-alpha/Cultivation_1.2.0_x64_en-US.msi) [下载页面](https://github.com/Grasscutters/Cultivation/releases)
 
+- [中文音乐资源](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20230804185804_eTmE8EZjJZdAJapq/Audio_Chinese_4.0.0.zip) 10.4GB 解压到游戏资源目录下就可以用了 [下载页面](https://github.com/JRSKelvin/GenshinRepository/blob/main/Version%204.0.0.md)
+
 
 ### 源码部分（不关心源码可以跳过）
 - [Grasscutter 源码](https://github.com/Grasscutters/Grasscutter) 
 - [Cultivation 源码](https://github.com/Grasscutters/Cultivation)
+
+
+
+### 命令生成工具和插件
+- [GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator/releases/download/v1.13.0/GcTools-v1.13.0.exe) [下载页面](https://github.com/jie65535/GrasscutterCommandGenerator/releases)
+- [opencommand](https://github.com/jie65535/gc-opencommand-plugin/releases/download/v1.7.0/opencommand-1.7.0.jar) [下载页面](https://github.com/jie65535/gc-opencommand-plugin/releases/tag/v1.7.0)
+
+- [卡池文件仓库](https://github.com/Zhaokugua/Grasscutter_Banners)
+- [卡池权重计算](https://github.com/Grasscutters/Grasscutter/pull/639)
 
 
 ## 2.环境搭建
